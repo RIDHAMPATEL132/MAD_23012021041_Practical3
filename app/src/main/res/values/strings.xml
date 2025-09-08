@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD_23012021041_Practical3</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password :</string>
+    <string name="email_id">Email Id :</string>
+    <string name="guni">GUNI</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="enter_password">Enter password</string>
+</resources>
