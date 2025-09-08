@@ -31,7 +31,7 @@ In this application, the following functionalities are implemented using Intents
 | Screenshot | Description |  
 |------------|-------------|  
 | <p align="center"/><img src="screeshot/main_screen.png" alt="Main Screen" width="250"/> | The **Main Screen** shows all buttons to demonstrate different **Implicit & Explicit Intents**. |  
-| <p align="center"/><img src="screeshot/make_call1.png" alt="Make Call" width="250"/><img src="screeshot/make_call2.png" alt="Make Call" width="250"/> | On clicking **Make Call**, the Dialer app opens with a specific number pre-filled. |  
+| <p align="center"/><img src="screeshot/make_call1.png" alt="Make Call" width="250"/><img src="screeshot/make_call2.jpg" alt="Make Call" width="250"/> | On clicking **Make Call**, the Dialer app opens with a specific number pre-filled. |  
 | <p align="center"/><img src="screeshot/open_url1.jpg" alt="Open URL" width="250"/><img src="screeshot/open_url2.jpg" alt="Open URL" width="250"/> | On clicking **Open URL**, the Browser opens and loads the specified website. |  
 | <p align="center"/><img src="screeshot/callLog.jpg" alt="Open Call Log" width="250"/> | On clicking **Open Call Log**, the device call log opens. |  
 | <p align="center"/><img src="screeshot/open_gallery.jpg" alt="Open Gallery" width="250"/> | On clicking **Open Gallery**, the Gallery app opens and shows stored media files. |  
