@@ -30,14 +30,14 @@ In this application, the following functionalities are implemented using Intents
 
 | Screenshot | Description |  
 |------------|-------------|  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/main.png" alt="Main Screen" width="250"/> | The **Main Screen** shows all buttons to demonstrate different **Implicit & Explicit Intents**. |  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/call.png" alt="Make Call" width="250"/> | On clicking **Make Call**, the Dialer app opens with a specific number pre-filled. |  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/url.png" alt="Open URL" width="250"/> | On clicking **Open URL**, the Browser opens and loads the specified website. |  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/call_log.png" alt="Open Call Log" width="250"/> | On clicking **Open Call Log**, the device call log opens. |  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/gallery.png" alt="Open Gallery" width="250"/> | On clicking **Open Gallery**, the Gallery app opens and shows stored media files. |  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/alarm.png" alt="Set Alarm" width="250"/> | On clicking **Set Alarm**, the Alarm app opens allowing the user to set an alarm. |  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/camera.png" alt="Open Camera" width="250"/> | On clicking **Open Camera**, the Camera app opens for capturing photos/videos. |  
-| <p align="center"/><img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/screenshots/login.png" alt="Login Activity" width="250"/> | On clicking **Login Activity**, a custom login screen (Explicit Intent) opens within the app. |  
+| <p align="center"/><img src="screeshot/main_screen.png" alt="Main Screen" width="250"/> | The **Main Screen** shows all buttons to demonstrate different **Implicit & Explicit Intents**. |  
+| <p align="center"/><img src="screeshot/make_call1.png" alt="Make Call" width="250"/><img src="screeshot/make_call2.png" alt="Make Call" width="250"/> | On clicking **Make Call**, the Dialer app opens with a specific number pre-filled. |  
+| <p align="center"/><img src="screeshot/open_url1.jpg" alt="Open URL" width="250"/><img src="screeshot/open_url2.jpg" alt="Open URL" width="250"/> | On clicking **Open URL**, the Browser opens and loads the specified website. |  
+| <p align="center"/><img src="screeshot/callLog.jpg" alt="Open Call Log" width="250"/> | On clicking **Open Call Log**, the device call log opens. |  
+| <p align="center"/><img src="screeshot/open_gallery.jpg" alt="Open Gallery" width="250"/> | On clicking **Open Gallery**, the Gallery app opens and shows stored media files. |  
+| <p align="center"/><img src="screeshot/alarm.jpg" alt="Set Alarm" width="250"/> | On clicking **Set Alarm**, the Alarm app opens allowing the user to set an alarm. |  
+| <p align="center"/><img src="screeshot/camera.jpg" alt="Open Camera" width="250"/> | On clicking **Open Camera**, the Camera app opens for capturing photos/videos. |  
+| <p align="center"/><img src="screeshot/loginpage.jpg" alt="Login Activity" width="250"/> | On clicking **Login Activity**, a custom login screen (Explicit Intent) opens within the app. |  
 
 ---
 
