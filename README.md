@@ -44,3 +44,10 @@ In this application, the following functionalities are implemented using Intents
 ## ✅ Result  
 
 The Android application was successfully created to demonstrate **Implicit and Explicit Intents** along with various Intent actions like **calling, opening URL, call log, gallery, alarm, camera, and custom activity**.  
+
+## 📘 Student Details
+
+>  **Name:** *Ridham Patel*  
+>  **Enrollment:** *23012021041*  
+>  **Batch:** *5IT-B-1*  
+
